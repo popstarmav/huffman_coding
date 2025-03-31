@@ -1,1 +1,1 @@
-C - Huffman coding
+Huffman coding
